@@ -23,7 +23,7 @@ from zipfile import ZipFile, BadZipFile
 from selenium.webdriver.support.ui import Select
 
 # Тестирование VSCOD Тестирование 3
-# тЕСТИРВОАНИЕ ИЗ ПАПКИ
+
 # ===== Настройки Selenium =====
 EDGE_PATH = r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
 PROFILE_PATH = r"C:\SeleniumEdgeProfile"
@@ -976,3 +976,4 @@ log_text = scrolledtext.ScrolledText(root, width=100, height=25)
 log_text.pack(padx=10, pady=10)
 
 root.mainloop()
+
