@@ -22,7 +22,7 @@ from selenium.common.exceptions import NoSuchElementException
 from zipfile import ZipFile, BadZipFile
 from selenium.webdriver.support.ui import Select
 
-# Тестирование VSCOD Тестирование 2
+# Тестирование VSCOD Тестирование 3
 # тЕСТИРВОАНИЕ ИЗ ПАПКИ
 # ===== Настройки Selenium =====
 EDGE_PATH = r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
